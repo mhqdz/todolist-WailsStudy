@@ -5,7 +5,7 @@
 
 项目配置信息[wails官方文档](https://wails.io/zh-Hans/docs/reference/project-config/).
 
-自己写的稍微更详细一点的[项目代码解析](https://mhqdz.cn/posts/wailsstudy-todolist/)
+自己写的稍微更详细一点的[项目代码解析](https://mhqdz.cn/posts/wails/)
 
 ## 构建
 项目构建依赖于[wails](https://wails.io).
